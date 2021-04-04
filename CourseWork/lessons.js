@@ -4,7 +4,7 @@ let myArr = [
       "title": "ARABIC LANGUAGE ",
       "description": "your knowledge of arabic.",
       "location":"New Lectures room",
-      "price": 20.00,
+      "price": 20.0,
       "image": "images/arabic.jpg",
       "availableInventory": 10
      
